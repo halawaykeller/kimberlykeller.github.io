@@ -126,7 +126,7 @@
         @media (min-width: 1200px) {
             font-size: 135px;
         }
-        @media (min-width: 700px) {
+        @media (min-width: 700px,) and (max-width: 1200px) {
             font-size: 11vw;
             line-height: 11vw;
         }
