@@ -1,5 +1,5 @@
 body {
-  max-width: 1400px
+  max-width: 1400px;
 }
 
 /* Flex Grid */
@@ -114,6 +114,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
      @include media-query($on-palm) {
         flex-direction: column;
      }
@@ -121,6 +122,14 @@ body {
 
 .resume, .contact {
     padding-right: 15px;
+}
+
+.home-chevron {
+  font-size: 40px;
+  color: blue;
+  text-align: center;
+  position: absolute;
+  bottom: 8rem;
 }
 
 .hero {
