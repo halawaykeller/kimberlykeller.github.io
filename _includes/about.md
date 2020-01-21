@@ -4,7 +4,7 @@ I started working as a web developer in 2016 and paired my experience in busines
 
 I currently work as a Software Engineer at [Xpansiv Data Systems](https://www.xpansiv.com/) where I write Scala to change the way commodities are traded. 
 
-My favorite language is Haskell. However I frequently work with Scala, Python, Java, SQL, and JavaScript. Some tooling I work with regularly: Spring, Docker, AWS, React.
+My favorite language is Haskell. However I frequently work with Scala, Python, Java, SQL, and JavaScript. Some tooling I work with regularly includes Spring, Docker, AWS, and React.
 
 When I’m not at a computer, I enjoy reading, gardening, and watching Star Trek. You can usually find me pen-in-hand with a book on my lap.
 
